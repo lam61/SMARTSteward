@@ -1,0 +1,2 @@
+# SMARTSteward
+Church Management Application
